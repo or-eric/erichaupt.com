@@ -29,20 +29,6 @@ export default async function TheLab() {
         // access fallback
     }
 
-    // Inject "Curated Intelligence" as the Primary/Featured Card (Always Top)
-    const curatedIntelligence: Project = {
-        id: 'curated-intelligence',
-        title: 'Curated Intelligence',
-        description: 'A specialized intelligence platform designed to eliminate information overload by aggregating and filtering thousands of feeds and data into high-fidelity signal.',
-        status: 'Live',
-        tech_stack: ['Next.js', 'AI Agents', 'Edge', 'Intelligence'],
-        href: 'https://ci.orlabs.dev',
-        cta_text: 'Launch Platform',
-        is_featured: true,
-    };
-
-    // Unshift to top
-    projects.unshift(curatedIntelligence);
 
     // Use Mock Data if no projects found (or DB not connected)
     if (projects.length === 0) {
@@ -71,6 +57,21 @@ export default async function TheLab() {
             },
         ];
     }
+
+    // Inject "Curated Intelligence" as the Primary/Featured Card (Always Top)
+    const curatedIntelligence: Project = {
+        id: 'curated-intelligence',
+        title: 'Curated Intelligence',
+        description: 'A specialized intelligence platform designed to eliminate information overload by aggregating and filtering thousands of feeds and data into high-fidelity signal.',
+        status: 'Live',
+        tech_stack: ['Next.js', 'AI Agents', 'Edge', 'Intelligence'],
+        href: 'https://ci.orlabs.dev',
+        cta_text: 'Launch Platform',
+        is_featured: true,
+    };
+
+    // Unshift to top
+    projects.unshift(curatedIntelligence);
 
     return (
         <section className="container mx-auto px-4 py-24">
