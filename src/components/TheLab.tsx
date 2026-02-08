@@ -48,17 +48,10 @@ export default async function TheLab() {
                 tech_stack: ['Next.js', 'Supabase', 'Tailwind CSS', 'PostgreSQL'],
                 progress: 40,
             },
-            {
-                id: 'obsidian-platform',
-                title: 'Obsidian Rowe Platform',
-                description: 'The central consulting interface for client engagement and strategic planning metrics.',
-                status: 'Live',
-                tech_stack: ['React', 'Node.js', 'GraphQL'],
-            },
         ];
     }
 
-    // Inject "Curated Intelligence" as the Primary/Featured Card (Always Top)
+    // Inject "Curated Intelligence" & "Obsidian Rowe" as Primary/Featured Cards
     const curatedIntelligence: Project = {
         id: 'curated-intelligence',
         title: 'Curated Intelligence',
@@ -70,8 +63,24 @@ export default async function TheLab() {
         is_featured: true,
     };
 
-    // Unshift to top
-    projects.unshift(curatedIntelligence);
+    const obsidianPlatform: Project = {
+        id: 'obsidian-platform',
+        title: 'Obsidian Rowe Platform',
+        description: 'A strategic consulting framework and digital hub designed to bridge the gap between complex cybersecurity compliance and actionable AI-driven intelligence. Serving as the operational foundation for high-stakes organizational strategy.',
+        status: 'Live',
+        tech_stack: ['React', 'Node.js', 'GraphQL', 'Compliance', 'Consulting', 'AI-Governance'],
+        href: 'https://www.obsidianrowe.com',
+        cta_text: 'Launch Platform',
+        is_featured: true,
+    };
+
+    // Unshift to top (Order: Obsidian, then Curated, or vice versa? User requested Curated first, then Obsidian. Unshift logic: unshift(a, b) puts a then b at start.)
+    // Actually, unshift(a, b) results in [a, b, ...rest].
+    // Wait, unshift adds elements to the start.
+    // If we want [Curated, Obsidian, ...], we unshift(Curated, Obsidian).
+    // Let's do unshift(curatedIntelligence, obsidianPlatform);
+
+    projects.unshift(curatedIntelligence, obsidianPlatform);
 
     return (
         <section className="container mx-auto px-4 py-24">
