@@ -13,10 +13,10 @@ interface Post {
 }
 
 export default async function SundayMusingsPreview() {
-    const supabase = await createClient();
-
     let posts: Post[] = [];
+
     try {
+        const supabase = await createClient();
         const { data, error } = await supabase
             .from('posts')
             .select('id, title, excerpt, published_at, category, slug')

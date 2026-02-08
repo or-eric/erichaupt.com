@@ -1,12 +1,11 @@
 import { createClient } from '@/utils/supabase/server';
 
 export default async function LiveSignal() {
-    const supabase = await createClient();
-
     let status = 'Deep Work'; // Default fallback
     let color = 'bg-amber-500';
 
     try {
+        const supabase = await createClient();
         const { data } = await supabase
             .from('now_updates')
             .select('activity_type')

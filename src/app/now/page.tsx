@@ -10,24 +10,24 @@ export const metadata = {
 export const runtime = 'edge';
 
 export default async function NowPage() {
-    const supabase = await createClient();
     let content = "Focused on building the Obsidian Rowe platform and refining my personal digital garden.";
-    let updatedAt = new Date().toISOString();
+    let lastUpdated = new Date().toISOString();
 
     try {
+        const supabase = await createClient();
         const { data } = await supabase
             .from('now_updates')
-            .select('content, updated_at')
-            .order('updated_at', { ascending: false })
+            .select('content, created_at')
+            .order('created_at', { ascending: false })
             .limit(1)
             .single();
 
         if (data) {
             content = data.content;
-            updatedAt = data.updated_at;
+            lastUpdated = data.created_at;
         }
     } catch {
-        // fallback
+        // Fallback to default
     }
 
     return (

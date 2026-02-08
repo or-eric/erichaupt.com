@@ -12,11 +12,10 @@ interface Project {
 }
 
 export default async function TheLab() {
-    const supabase = await createClient();
-
     let projects: Project[] = [];
 
     try {
+        const supabase = await createClient();
         const { data } = await supabase
             .from('projects')
             .select('*')
