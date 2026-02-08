@@ -80,8 +80,12 @@ export default async function NowPage() {
             </div>
 
             <div className="border-t border-deep-slate/10 pt-8 font-mono text-xs text-slate-400">
-                Last Updated: <time dateTime={updatedAt}>{format(new Date(updatedAt), 'MMMM dd, yyyy')}</time>
+                Last Updated: <time dateTime={lastUpdated}>{format(new Date(lastUpdated), 'MMMM dd, yyyy')}</time>
             </div>
+
+            <a href="https://nownownow.com/about" target="_blank" rel="noopener noreferrer" className="block mt-4 font-mono text-xs text-slate-300 hover:text-deep-slate transition-colors">
+                (What is a /now page?)
+            </a>
         </main>
     );
 }
