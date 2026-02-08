@@ -9,6 +9,9 @@ interface Project {
     tech_stack: string[];
     progress?: number;
     slug?: string;
+    href?: string;
+    cta_text?: string;
+    is_featured?: boolean;
 }
 
 export default async function TheLab() {
@@ -25,6 +28,21 @@ export default async function TheLab() {
     } catch {
         // access fallback
     }
+
+    // Inject "Curated Intelligence" as the Primary/Featured Card (Always Top)
+    const curatedIntelligence: Project = {
+        id: 'curated-intelligence',
+        title: 'Curated Intelligence',
+        description: 'A specialized intelligence platform designed to eliminate information overload by aggregating and filtering thousands of feeds and data into high-fidelity signal.',
+        status: 'Live',
+        tech_stack: ['Next.js', 'AI Agents', 'Edge', 'Intelligence'],
+        href: 'https://ci.orlabs.dev',
+        cta_text: 'Launch Platform',
+        is_featured: true,
+    };
+
+    // Unshift to top
+    projects.unshift(curatedIntelligence);
 
     // Use Mock Data if no projects found (or DB not connected)
     if (projects.length === 0) {
@@ -74,6 +92,9 @@ export default async function TheLab() {
                         status={project.status}
                         techStack={project.tech_stack}
                         progress={project.progress}
+                        href={project.href}
+                        ctaText={project.cta_text}
+                        isFeatured={project.is_featured}
                     />
                 ))}
             </div>
