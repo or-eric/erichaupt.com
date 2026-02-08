@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+    --color-deep-slate: #1E293B;
+    --color-bone: #F8FAFC;
+    --font-serif: var(--font-playfair), serif;
+    --font-sans: var(--font-inter), sans-serif;
+}
