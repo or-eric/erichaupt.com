@@ -7,6 +7,8 @@ export const metadata = {
     description: 'What I am currently focused on.',
 };
 
+export const runtime = 'edge';
+
 export default async function NowPage() {
     const supabase = await createClient();
     let content = "Focused on building the Obsidian Rowe platform and refining my personal digital garden.";

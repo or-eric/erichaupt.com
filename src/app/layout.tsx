@@ -20,6 +20,8 @@ export const metadata: Metadata = {
   description: "Strategist. Operator. Developer.",
 };
 
+export const runtime = 'edge';
+
 export default function RootLayout({
   children,
 }: Readonly<{
