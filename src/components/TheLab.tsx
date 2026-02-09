@@ -83,7 +83,7 @@ export default async function TheLab() {
     projects.unshift(curatedIntelligence, obsidianPlatform);
 
     return (
-        <section className="container mx-auto px-4 py-24">
+        <section id="work" className="container mx-auto px-4 py-24">
             <div className="mb-12 flex items-baseline gap-4">
                 <h2 className="font-serif text-4xl font-bold text-deep-slate md:text-5xl">
                     The Lab

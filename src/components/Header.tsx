@@ -42,13 +42,13 @@ export default function Header() {
                     <Link href="/" className="font-sans text-sm font-medium text-slate-600 hover:text-deep-slate transition-colors">
                         Home
                     </Link>
-                    <Link href="/about" className="font-sans text-sm font-medium text-slate-600 hover:text-deep-slate transition-colors">
+                    <Link href="/#about" className="font-sans text-sm font-medium text-slate-600 hover:text-deep-slate transition-colors">
                         About
                     </Link>
                     <Link href="/musings" className="font-sans text-sm font-medium text-slate-600 hover:text-deep-slate transition-colors">
                         Musings
                     </Link>
-                    <Link href="/work" className="font-sans text-sm font-medium text-slate-600 hover:text-deep-slate transition-colors">
+                    <Link href="/#work" className="font-sans text-sm font-medium text-slate-600 hover:text-deep-slate transition-colors">
                         Work
                     </Link>
 
@@ -75,9 +75,9 @@ export default function Header() {
                     <div className="fixed inset-0 z-40 flex flex-col items-center justify-center bg-bone pt-20 md:hidden animate-in fade-in duration-200">
                         <nav className="flex flex-col items-center gap-8 text-lg">
                             <Link href="/" onClick={() => setMobileMenuOpen(false)} className="font-serif font-bold text-deep-slate">Home</Link>
-                            <Link href="/about" onClick={() => setMobileMenuOpen(false)} className="font-serif font-bold text-deep-slate">About</Link>
+                            <Link href="/#about" onClick={() => setMobileMenuOpen(false)} className="font-serif font-bold text-deep-slate">About</Link>
                             <Link href="/musings" onClick={() => setMobileMenuOpen(false)} className="font-serif font-bold text-deep-slate">Musings</Link>
-                            <Link href="/work" onClick={() => setMobileMenuOpen(false)} className="font-serif font-bold text-deep-slate">Work</Link>
+                            <Link href="/#work" onClick={() => setMobileMenuOpen(false)} className="font-serif font-bold text-deep-slate">Work</Link>
                             <button
                                 onClick={openCommandPalette}
                                 className="mt-8 flex items-center gap-2 rounded-full border border-deep-slate bg-deep-slate px-6 py-3 text-bone"
