@@ -1,0 +1,44 @@
+post_id,timestamp,email,post_type,post_audience,active_subscription,country,city,region,device_type,client_os,client_type,user_agent
+186535404,2026-02-01T21:31:11.558Z,lindzewilson@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+186535404,2026-02-01T21:31:29.817Z,inaktivetv@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+186535404,2026-02-01T21:31:32.377Z,joseluisrivera92@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+186535404,2026-02-01T21:32:05.709Z,thejoshuabgood@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+186535404,2026-02-01T21:38:30.655Z,kallieghdoesitbest@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+186535404,2026-02-01T21:50:44.511Z,rockyneise73@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+186535404,2026-02-01T21:51:10.963Z,joewankelman@gmail.com,newsletter,everyone,true,NL,,,,,,Mozilla/5.0
+186535404,2026-02-01T22:03:04.233Z,Fabricio@hackthebox.eu,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+186535404,2026-02-01T22:03:28.553Z,Fabricio@hackthebox.eu,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+186535404,2026-02-01T22:07:13.241Z,Fabricio@hackthebox.eu,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+186535404,2026-02-01T22:17:44.328Z,Fabricio@hackthebox.eu,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+186535404,2026-02-01T22:24:57.401Z,haupt.eric@gmail.com,newsletter,everyone,false,US,,,,,,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0 OneOutlook/1.2026.120.300 OneOutlook/1.2026.120.300"
+186535404,2026-02-01T22:37:13.706Z,Fabricio@hackthebox.eu,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+186535404,2026-02-01T22:37:51.822Z,Fabricio@hackthebox.eu,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+186535404,2026-02-01T22:37:56.221Z,Fabricio@hackthebox.eu,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+186535404,2026-02-01T22:52:06.850Z,eugene0731@gmail.com,newsletter,everyone,true,TW,,,,,,Mozilla/5.0
+186535404,2026-02-01T22:55:47.823Z,lefleri@yahoo.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+186535404,2026-02-02T00:37:23.312Z,kallieghdoesitbest@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+186535404,2026-02-02T00:39:38.798Z,Lorisrvlife@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+186535404,2026-02-02T00:42:33.486Z,swp1@icloud.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+186535404,2026-02-02T01:33:34.953Z,haupt.eric@gmail.com,newsletter,everyone,false,US,,,,,,Mozilla/5.0
+186535404,2026-02-02T03:06:25.422Z,d9spada@verizon.net,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+186535404,2026-02-02T03:06:45.120Z,swp1@icloud.com,newsletter,everyone,true,SE,,,,,,Mozilla/5.0
+186535404,2026-02-02T03:07:58.698Z,kallieghdoesitbest@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+186535404,2026-02-02T03:34:47.657Z,patrick.a.ortiz@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+186535404,2026-02-02T04:43:02.177Z,swp1@icloud.com,newsletter,everyone,true,NL,,,,,,Mozilla/5.0
+186535404,2026-02-02T05:02:10.935Z,erichaupt@sbcglobal.net,newsletter,everyone,true,US,,,,,,YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+186535404,2026-02-02T05:33:40.682Z,joseluisrivera92@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+186535404,2026-02-02T05:50:43.145Z,joewankelman@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+186535404,2026-02-02T10:48:08.902Z,shayne.blaze@yahoo.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+186535404,2026-02-02T12:24:36.546Z,Mbbarrett528@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+186535404,2026-02-02T12:52:08.726Z,d9spada@verizon.net,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+186535404,2026-02-02T14:21:18.273Z,leonfortunello@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+186535404,2026-02-02T14:25:07.041Z,graysongordon1@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+186535404,2026-02-02T15:05:09.687Z,Mbbarrett528@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+186535404,2026-02-02T15:39:53.196Z,darren.chester@hotmail.com,newsletter,everyone,true,US,,,,,,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0 OneOutlook/1.2026.120.300"
+186535404,2026-02-02T18:57:44.013Z,lindzewilson@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+186535404,2026-02-03T00:35:52.904Z,rockyneise73@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+186535404,2026-02-03T02:02:59.288Z,TONYAKERS@MAC.COM,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+186535404,2026-02-03T14:19:11.537Z,Mbbarrett528@gmail.com,newsletter,everyone,true,US,,,,,,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0 OneOutlook/1.2026.120.300"
+186535404,2026-02-04T01:21:49.985Z,leonfortunello@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+186535404,2026-02-04T03:01:07.032Z,Fabricio@hackthebox.eu,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+186535404,2026-02-05T20:15:48.535Z,paalvitre@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0

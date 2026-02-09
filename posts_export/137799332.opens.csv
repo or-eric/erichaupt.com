@@ -1,0 +1,53 @@
+post_id,timestamp,email,post_type,post_audience,active_subscription,country,city,region,device_type,client_os,client_type,user_agent
+137799332,2023-10-09T16:18:31.064Z,warinyagit@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-09T16:19:39.985Z,lefleri@yahoo.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+137799332,2023-10-09T16:22:02.419Z,ryan.hunke@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-09T16:24:40.470Z,prushazl3366@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+137799332,2023-10-09T16:24:45.148Z,haupthold@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-09T16:37:52.728Z,swp1@icloud.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+137799332,2023-10-09T16:39:02.832Z,charles.r.brodeur@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-09T16:39:49.814Z,1sasha1@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-09T16:41:21.374Z,d9spada@verizon.net,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+137799332,2023-10-09T16:50:15.339Z,prushazl3366@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+137799332,2023-10-09T16:52:07.609Z,paalvitre@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+137799332,2023-10-09T16:53:29.448Z,prushazl3366@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+137799332,2023-10-09T16:53:33.350Z,prushazl3366@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+137799332,2023-10-09T16:55:58.582Z,patrick.a.ortiz@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+137799332,2023-10-09T17:00:39.160Z,lindzewilson@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-09T17:07:15.579Z,brent@brentweeks.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-09T17:24:06.590Z,dilpickz@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-09T17:57:31.379Z,swp1@icloud.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+137799332,2023-10-09T18:15:53.094Z,erichaupt@sbcglobal.net,newsletter,everyone,true,US,,,,,,YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+137799332,2023-10-09T18:16:49.537Z,1sasha1@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+137799332,2023-10-09T19:06:13.661Z,prushazl3366@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+137799332,2023-10-09T19:06:17.081Z,prushazl3366@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+137799332,2023-10-09T19:06:25.305Z,prushazl3366@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+137799332,2023-10-09T19:16:25.133Z,charles.r.brodeur@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-09T19:30:25.338Z,prushazl3366@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+137799332,2023-10-09T20:05:22.864Z,d9spada@verizon.net,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+137799332,2023-10-09T20:29:45.311Z,prushazl3366@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+137799332,2023-10-09T20:37:19.777Z,prushazl3366@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+137799332,2023-10-09T20:45:39.766Z,prushazl3366@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+137799332,2023-10-09T21:04:55.912Z,joewankelman@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+137799332,2023-10-09T21:07:59.807Z,inaktivetv@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-09T21:11:12.174Z,inaktivetv@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-09T21:22:21.180Z,Lorisrvlife@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-09T21:33:19.925Z,inaktivetv@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-09T23:45:23.878Z,haupthold@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-10T06:14:49.475Z,joseluisrivera92@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+137799332,2023-10-10T06:44:49.045Z,shayne.blaze@yahoo.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+137799332,2023-10-10T11:48:05.792Z,inaktivetv@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-10T11:50:10.259Z,haupt.eric@gmail.com,newsletter,everyone,false,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-10T12:56:40.301Z,warinyagit@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-11T01:39:12.355Z,bhaas723@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-11T01:39:13.335Z,bhaas723@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-11T01:39:14.363Z,bhaas723@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-11T03:19:14.922Z,eric@erichaupt.com,newsletter,everyone,true,US,,,,,,"Mozilla/5.0 (iPad; CPU OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+137799332,2023-10-11T03:19:15.095Z,eric@erichaupt.com,newsletter,everyone,true,US,,,,,,"Mozilla/5.0 (iPad; CPU OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+137799332,2023-10-11T13:03:31.561Z,joewankelman@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+137799332,2023-10-11T14:07:27.822Z,1sasha1@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-11T18:52:00.492Z,wcbeach30@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-11T20:13:19.359Z,paalvitre@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+137799332,2023-10-12T01:15:55.206Z,haupthold@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-13T17:30:13.109Z,haupthold@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+137799332,2023-10-20T10:13:26.350Z,joseluisrivera92@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0

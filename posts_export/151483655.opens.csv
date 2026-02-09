@@ -1,0 +1,45 @@
+post_id,timestamp,email,post_type,post_audience,active_subscription,country,city,region,device_type,client_os,client_type,user_agent
+151483655,2024-11-11T03:09:08.899Z,haupthold@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+151483655,2024-11-11T03:14:39.446Z,rockyneise73@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+151483655,2024-11-11T03:15:49.208Z,lindzewilson@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+151483655,2024-11-11T03:26:39.016Z,joewankelman@gmail.com,newsletter,everyone,true,NL,,,,,,Mozilla/5.0
+151483655,2024-11-11T03:59:08.931Z,patrick.a.ortiz@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+151483655,2024-11-11T04:06:32.373Z,swp1@icloud.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+151483655,2024-11-11T04:16:14.637Z,1sasha1@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+151483655,2024-11-11T04:18:31.549Z,hookahs.draws-0d@icloud.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+151483655,2024-11-11T04:32:25.568Z,swp1@icloud.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+151483655,2024-11-11T05:40:23.339Z,d9spada@verizon.net,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+151483655,2024-11-11T07:13:00.256Z,joewankelman@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+151483655,2024-11-11T07:59:52.702Z,d9spada@verizon.net,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+151483655,2024-11-11T10:29:39.354Z,Lorisrvlife@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+151483655,2024-11-11T10:57:48.406Z,shayne.blaze@yahoo.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+151483655,2024-11-11T11:01:27.684Z,brent.jk.stone@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+151483655,2024-11-11T14:18:44.703Z,prushazl3366@gmail.com,newsletter,everyone,true,US,,,,,,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36"
+151483655,2024-11-11T14:53:23.474Z,TONYAKERS@MAC.COM,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+151483655,2024-11-11T16:30:33.824Z,brent@brentweeks.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+151483655,2024-11-11T16:41:12.587Z,lindzewilson@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+151483655,2024-11-11T19:14:29.134Z,brent.jk.stone@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+151483655,2024-11-11T21:33:05.023Z,TONYAKERS@MAC.COM,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+151483655,2024-11-12T00:21:55.509Z,inaktivetv@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+151483655,2024-11-12T00:43:29.122Z,eugene0731@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+151483655,2024-11-12T02:36:59.281Z,brent.jk.stone@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+151483655,2024-11-12T02:41:42.248Z,erichaupt@sbcglobal.net,newsletter,everyone,true,US,,,,,,YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+151483655,2024-11-12T11:33:56.953Z,mrs.johns3456@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+151483655,2024-11-12T11:36:26.141Z,eugene0731@gmail.com,newsletter,everyone,true,JP,,,,,,Mozilla/5.0
+151483655,2024-11-12T14:54:31.256Z,paalvitre@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+151483655,2024-11-12T15:17:02.319Z,brent@brentweeks.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+151483655,2024-11-12T17:47:47.385Z,lindzewilson@gmail.com,newsletter,everyone,true,NL,,,,,,Mozilla/5.0
+151483655,2024-11-12T18:18:05.263Z,TONYAKERS@MAC.COM,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+151483655,2024-11-12T19:31:41.959Z,rockyneise73@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+151483655,2024-11-13T00:17:19.614Z,joseluisrivera92@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+151483655,2024-11-13T09:26:42.184Z,eugene0731@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+151483655,2024-11-14T02:04:07.613Z,rockyneise73@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+151483655,2024-11-14T05:03:50.186Z,paalvitre@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+151483655,2024-11-15T06:23:53.277Z,paalvitre@gmail.com,newsletter,everyone,true,NL,,,,,,Mozilla/5.0
+151483655,2024-11-16T03:16:28.513Z,d9spada@verizon.net,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+151483655,2024-11-16T13:16:37.699Z,paalvitre@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+151483655,2024-11-16T16:29:55.308Z,eric@erichaupt.com,newsletter,everyone,true,US,,,,,,"Mozilla/5.0 (iPad; CPU OS 17_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+151483655,2024-11-16T16:29:55.412Z,eric@erichaupt.com,newsletter,everyone,true,US,,,,,,"Mozilla/5.0 (iPad; CPU OS 17_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+151483655,2024-11-25T13:31:54.877Z,paalvitre@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+151483655,2024-11-28T20:20:38.777Z,haupt.eric@gmail.com,newsletter,everyone,false,US,,,,,,Mozilla/5.0
+151483655,2024-11-30T18:58:48.975Z,swp1@icloud.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0

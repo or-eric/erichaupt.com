@@ -1,0 +1,44 @@
+post_id,timestamp,email,post_type,post_audience,active_subscription,country,city,region,device_type,client_os,client_type,user_agent
+141808854,2024-02-19T03:29:35.437Z,jghaynie@crimson.ua.edu,newsletter,everyone,true,US,,,,,,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+141808854,2024-02-19T03:29:54.306Z,drlaack@hotmail.com,newsletter,everyone,true,US,,,,,,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0"
+141808854,2024-02-19T03:32:16.997Z,dilpickz@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+141808854,2024-02-19T03:43:20.995Z,erichaupt@sbcglobal.net,newsletter,everyone,true,US,,,,,,YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+141808854,2024-02-19T03:52:04.056Z,joewankelman@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+141808854,2024-02-19T04:01:07.370Z,patrick.a.ortiz@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+141808854,2024-02-19T04:07:05.652Z,eugene0731@gmail.com,newsletter,everyone,true,JP,,,,,,Mozilla/5.0
+141808854,2024-02-19T04:38:06.966Z,swp1@icloud.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+141808854,2024-02-19T05:05:10.834Z,d9spada@verizon.net,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+141808854,2024-02-19T06:03:28.896Z,paalvitre@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+141808854,2024-02-19T06:04:05.359Z,linda.e.wilson@comcast.net,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+141808854,2024-02-19T06:04:39.014Z,Fabricio@hackthebox.eu,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+141808854,2024-02-19T06:04:42.770Z,Fabricio@hackthebox.eu,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+141808854,2024-02-19T07:18:49.417Z,swp1@icloud.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+141808854,2024-02-19T07:25:17.172Z,lindzewilson@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+141808854,2024-02-19T07:35:56.253Z,rockyneise73@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+141808854,2024-02-19T12:34:29.213Z,bhaas723@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+141808854,2024-02-19T12:34:30.225Z,bhaas723@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+141808854,2024-02-19T14:07:54.672Z,joseluisrivera92@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+141808854,2024-02-19T14:12:25.311Z,1sasha1@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+141808854,2024-02-19T14:16:50.648Z,joewankelman@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+141808854,2024-02-19T14:48:50.249Z,Lorisrvlife@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+141808854,2024-02-19T15:46:36.549Z,prushazl3366@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+141808854,2024-02-19T16:11:20.781Z,ryan.hunke@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+141808854,2024-02-19T16:11:38.243Z,ryan.hunke@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+141808854,2024-02-19T18:34:45.019Z,rockyneise73@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+141808854,2024-02-19T19:39:13.300Z,d9spada@verizon.net,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+141808854,2024-02-19T19:47:38.448Z,lefleri@yahoo.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+141808854,2024-02-19T21:36:26.869Z,inaktivetv@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+141808854,2024-02-19T21:36:42.986Z,haupt.eric@gmail.com,newsletter,everyone,false,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+141808854,2024-02-20T11:16:59.135Z,solana.haupt@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+141808854,2024-02-21T04:49:47.003Z,shayne.blaze@yahoo.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+141808854,2024-02-21T13:04:22.337Z,TONYAKERS@MAC.COM,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+141808854,2024-02-22T15:51:21.186Z,TONYAKERS@MAC.COM,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+141808854,2024-02-24T03:00:15.142Z,joseluisrivera92@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+141808854,2024-02-24T22:59:21.285Z,shayne.blaze@yahoo.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+141808854,2024-02-25T07:23:10.307Z,eric@erichaupt.com,newsletter,everyone,true,US,,,,,,Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+141808854,2024-02-25T07:23:10.384Z,eric@erichaupt.com,newsletter,everyone,true,US,,,,,,Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+141808854,2024-02-25T23:29:09.567Z,haupt.eric@gmail.com,newsletter,everyone,false,US,,,,,,Mozilla/5.0
+141808854,2024-02-26T18:04:56.942Z,lindzewilson@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+141808854,2024-02-27T18:49:52.662Z,joseluisrivera92@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+141808854,2024-03-05T01:16:17.761Z,rockyneise73@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+141808854,2024-03-12T02:06:28.086Z,joewankelman@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
