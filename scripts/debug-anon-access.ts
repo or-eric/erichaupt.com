@@ -13,7 +13,9 @@ if (!SUPABASE_URL || !SUPABASE_ANON_KEY) {
 
 async function debugAnon() {
     console.log('Testing Anon Key access...');
-    const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY!);
+    // Assert non-null because we check above
+    if (!SUPABASE_URL || !SUPABASE_ANON_KEY) throw new Error('Missing Env Vars');
+    const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
     // Try to fetch 1 post
     const { data, error } = await supabase
