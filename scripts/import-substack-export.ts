@@ -18,6 +18,10 @@ if (!SUPABASE_URL || !SUPABASE_KEY) {
 const EXPORT_DIR = path.join(process.cwd(), 'posts_export');
 
 async function importExport() {
+    // Assert non-null because we check above
+    if (!SUPABASE_URL || !SUPABASE_KEY) {
+        throw new Error('Missing Supabase keys');
+    }
     const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
 
     if (!fs.existsSync(EXPORT_DIR)) {
