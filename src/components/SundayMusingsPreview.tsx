@@ -51,9 +51,14 @@ export default async function SundayMusingsPreview() {
 
     return (
         <section className="container mx-auto px-4 py-24">
-            <h2 className="mb-12 font-serif text-4xl font-bold text-deep-slate md:text-5xl">
-                Sunday Musings
-            </h2>
+            <div className="mb-12 flex items-baseline gap-4">
+                <h2 className="font-serif text-4xl font-bold text-deep-slate md:text-5xl">
+                    Sunday Musings
+                </h2>
+                <span className="hidden font-mono text-sm text-slate-400 md:inline-block">
+                    // Weekly Reflections & Observations
+                </span>
+            </div>
 
             <div className="flex flex-col">
                 {posts.map((post) => (
