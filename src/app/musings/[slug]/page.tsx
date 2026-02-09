@@ -59,7 +59,7 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
                     className="mb-8 inline-flex items-center gap-2 text-sm text-deep-slate/60 transition-colors hover:text-emerald-600"
                 >
                     <ArrowLeft size={16} />
-                    Back to Laboratory
+                    Return to Archive
                 </Link>
 
                 {/* Header */}
