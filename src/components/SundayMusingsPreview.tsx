@@ -39,6 +39,9 @@ export default async function SundayMusingsPreview() {
                 <h2 className="mb-12 font-serif text-4xl font-bold text-deep-slate md:text-5xl">
                     Sunday Musings
                 </h2>
+                <span className="font-mono text-sm text-slate-400">
+          // Weekly Reflections & Observations
+                </span>
                 <div className="py-8 text-center text-slate-500 font-sans">
                     <p>No recent musings found. Connect Supabase to see posts here.</p>
                 </div>
