@@ -19,6 +19,10 @@ if (!SUPABASE_URL || !SUPABASE_KEY) {
 const SUBSTACK_URL = 'https://erichaupt.substack.com/feed';
 
 async function importSubstack() {
+    // Assert non-null because we check above
+    if (!SUPABASE_URL || !SUPABASE_KEY) {
+        throw new Error('Missing Supabase keys');
+    }
     console.log(`Create Client for ${SUPABASE_URL}...`);
     const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
     const parser = new Parser();
