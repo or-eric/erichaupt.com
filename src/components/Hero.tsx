@@ -1,5 +1,6 @@
 'use client';
 
+import Link from 'next/link';
 import { motion } from 'framer-motion';
 
 export default function Hero() {
@@ -20,12 +21,18 @@ export default function Hero() {
                 </p>
 
                 <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
-                    <button className="rounded-md bg-deep-slate px-8 py-3 font-medium text-bone transition-transform hover:scale-105 active:scale-95">
+                    <a
+                        href="mailto:eric@erichaupt.com"
+                        className="rounded-md bg-deep-slate px-8 py-3 font-medium text-bone transition-transform hover:scale-105 active:scale-95"
+                    >
                         Get in Touch
-                    </button>
-                    <button className="rounded-md border-2 border-deep-slate px-8 py-3 font-medium text-deep-slate transition-colors hover:bg-slate-100 active:bg-slate-200">
+                    </a>
+                    <Link
+                        href="/#work"
+                        className="rounded-md border-2 border-deep-slate px-8 py-3 font-medium text-deep-slate transition-colors hover:bg-slate-100 active:bg-slate-200"
+                    >
                         View Work
-                    </button>
+                    </Link>
                 </div>
             </motion.div>
         </section>

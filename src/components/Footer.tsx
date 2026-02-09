@@ -27,16 +27,7 @@ export default function Footer() {
                         <Linkedin size={20} strokeWidth={1.5} />
                     </a>
                     <a
-                        href="https://github.com/erichaupt"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-slate-400 transition-colors hover:text-bone"
-                        aria-label="GitHub"
-                    >
-                        <Github size={20} strokeWidth={1.5} />
-                    </a>
-                    <a
-                        href="https://twitter.com"
+                        href="https://x.com/erichaupt"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-slate-400 transition-colors hover:text-bone"
