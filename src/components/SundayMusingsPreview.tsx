@@ -40,7 +40,7 @@ export default async function SundayMusingsPreview() {
                     Sunday Musings
                 </h2>
                 <span className="font-mono text-sm text-slate-400">
-          // Weekly Reflections & Observations
+                    {'// Weekly Reflections & Observations'}
                 </span>
                 <div className="py-8 text-center text-slate-500 font-sans">
                     <p>No recent musings found. Connect Supabase to see posts here.</p>
@@ -56,7 +56,7 @@ export default async function SundayMusingsPreview() {
                     Sunday Musings
                 </h2>
                 <span className="hidden font-mono text-sm text-slate-400 md:inline-block">
-                    // Weekly Reflections & Observations
+                    {'// Weekly Reflections & Observations'}
                 </span>
             </div>
 

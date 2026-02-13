@@ -89,7 +89,7 @@ export default async function TheLab() {
                     The Lab
                 </h2>
                 <span className="font-mono text-sm text-slate-400">
-          // Experimental Projects & Prototypes
+                    {'// Experimental Projects & Prototypes'}
                 </span>
             </div>
 

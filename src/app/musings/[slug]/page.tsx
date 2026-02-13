@@ -4,6 +4,8 @@ import Link from 'next/link';
 import { ArrowLeft, Calendar, Clock } from 'lucide-react';
 import { format } from 'date-fns';
 
+export const runtime = 'edge';
+
 interface Post {
     id: string;
     title: string;

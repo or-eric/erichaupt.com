@@ -12,7 +12,7 @@ export async function createClient() {
                 getAll() {
                     return cookieStore.getAll();
                 },
-                setAll(cookiesToSet) {
+                setAll(_cookiesToSet) {
                     // Cookies cannot be set in Server Components.
                     // This is handled by Middleware or Server Actions.
                 },
