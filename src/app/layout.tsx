@@ -3,6 +3,7 @@ import { Playfair_Display, Inter } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/Header";
 import CommandPalette from "@/components/CommandPalette";
+import ScrollToTop from "@/components/ScrollToTop";
 import Footer from "@/components/Footer";
 
 const playfair = Playfair_Display({
@@ -95,6 +96,7 @@ export default function RootLayout({
         />
         <Header />
         <CommandPalette />
+        <ScrollToTop />
         <div className="pt-20">
           {children}
         </div>
