@@ -1,0 +1,8 @@
+.personal-os-info,
+.personal-os-info .font-sans {
+    font-family: var(--font-inter), sans-serif;
+}
+
+.personal-os-info .prose :where(h1, h2, h3) {
+    font-family: var(--font-playfair), serif;
+}

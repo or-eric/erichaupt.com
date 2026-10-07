@@ -12,7 +12,7 @@
 * **Framework:** Next.js 16 (App Router).
 * **Styling:** Tailwind CSS v4.
 * **Database:** Supabase.
-* **Hosting:** Render.
+* **Hosting:** Cloudflare Pages, project `erichaupt`, connected to `or-eric/erichaupt.com` on `main` (automatic production deployments).
 
 ## Design Constraints
 * **Aesthetic:** "Beautifully Simple" and intuitive.
